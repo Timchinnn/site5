@@ -13,8 +13,8 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={onToggleButton}>toggle</button>
       <Header></Header>
+      <button onClick={onToggleButton}>toggle</button>
     </div>
   );
 }
