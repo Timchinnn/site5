@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./ProductList.css";
-import Productitem from "../Productitem/Productitem";
 import { useTelegram } from "../../hooks/useTelegram";
 
 const products = [
