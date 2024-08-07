@@ -3,7 +3,7 @@ import "./ProductList.css";
 
 import { useTelegram } from "../../hooks/useTelegram";
 import { useCallback, useEffect } from "react";
-import ProductItem from "../ProductItem/ProductItem";
+import ProductItem from "../Productitem/Productitem";
 
 const products = [
   {
